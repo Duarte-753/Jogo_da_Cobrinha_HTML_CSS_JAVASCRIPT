@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lilita+One&family=Lobster&display=swap');
+
+body {
+  font-family: 'Bree Serif', serif;
+  text-align: center;
+  font-size: 25px;
+  background-color: black;
+}
+
+h1 {
+  color: #ff0000;
+  border: 3px solid #ffd900;
+}
+
+#novo_jogo {
+  font-size: 25px;
+  background-color: #fffb00;
+  font-family: 'Bree Serif', serif;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+
+#novo_jogo:hover {
+  font-size: 25px;
+  background-color: #ff0000;
+  font-family: 'Bree Serif', serif;
+  border-radius: 5px;
+  color: antiquewhite;
+}
+
+#time {
+  color: #ffd900;
+}
+
+p {
+  color: #ff0000;
+}
+
+#gameCanvas {
+  border: 10px solid #ffd900;
+  background-color: rgb(47, 48, 48);
+  border-radius: 15px;
+}
